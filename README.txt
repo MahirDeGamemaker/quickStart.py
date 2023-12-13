@@ -17,4 +17,4 @@ This is a simple Pygame program that demonstrates how to create a window and dra
 - Move the rectangle using the arrow keys.
 
 ## Credits
-This program was created by [Your Name] and is licensed under the MIT License.
+This program was created by [ME] and is licensed under the MIT License.
